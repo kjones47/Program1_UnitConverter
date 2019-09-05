@@ -7,3 +7,6 @@ brainstorming app and ui, editing xml, trying fonts and colors, using emulator
 
 9/2/2019
 added more textviews, strings, organizing layouts, and adding text state change
+
+9/4/2019
+added tabs, issue with modules, now weather app, tap to convert to celcius/farenheit instead of submit button
