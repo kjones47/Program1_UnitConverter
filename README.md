@@ -10,3 +10,6 @@ added more textviews, strings, organizing layouts, and adding text state change
 
 9/4/2019
 added tabs, issue with modules, now weather app, tap to convert to celcius/farenheit instead of submit button
+
+9/6/2019
+trying tab fragments
