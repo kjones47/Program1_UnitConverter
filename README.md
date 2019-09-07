@@ -13,3 +13,6 @@ added tabs, issue with modules, now weather app, tap to convert to celcius/faren
 
 9/6/2019
 trying tab fragments
+
+9/7/2019
+convert button, layouts, edittext, integer vs double, keyboard and string issues
